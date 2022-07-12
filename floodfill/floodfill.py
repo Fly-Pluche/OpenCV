@@ -51,6 +51,6 @@ def FillHole(imgPath, SavePath):
 
 
 if __name__ == '__main__':
-    imgPath='../img/floodfill.png'
+    imgPath='floodfill.png'
     SavePath='out.png'
     FillHole(imgPath, SavePath)
